@@ -35,4 +35,7 @@ public class AppTest
     {
         assertTrue( true );
     }
+
+public String showMsg(){
+return "this App";
 }
