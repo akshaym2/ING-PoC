@@ -1,4 +1,3 @@
-package com.hcl.ing.service;
 
 public class AddNumbers {
 
