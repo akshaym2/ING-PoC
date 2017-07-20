@@ -21,6 +21,8 @@ public class AppTest
     }
 
     /**
+     * Added new line to check git conflict
+     * @return the suite of tests being tested
      */
     public static Test suite()
     {
